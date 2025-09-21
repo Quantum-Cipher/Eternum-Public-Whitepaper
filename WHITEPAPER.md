@@ -73,7 +73,7 @@ Donate *ETRN* to climate, neuroscience, hunger; receive staking boosts or govern
 ---
 
 ## 5. Future Nexusxa
-Web4 scaling with Google/OpenAI/Grokster, global pipeline for cures and wealth.
+Web4 scaling with Google/OpenAI/Grok, global pipeline for cures and wealth.
 
 ---
 
