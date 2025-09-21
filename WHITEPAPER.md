@@ -1,4 +1,4 @@
-# Eternum: Healing & Wealth Pipeline for Web4
+# Eternum: Healing & Wealth Pipeline for Web4 #Mythosblock #biologicalblockchain
 
 **Version**: 2.0  
 **Author**: Quantum-Cipher  
@@ -65,7 +65,7 @@ Donate *ETRN* to climate, neuroscience, hunger; receive staking boosts or govern
 
 ## 4. Deployment Plan
 - **Phase 1 (Q4 2025)**: Deploy *ETRN*, Forge, Oracle, dApp on Solana with Vertex AI.
-- Cost: $100K-$300K ($50K Forge/Oracle/dApp, $50K Vertex AI, $50K Solana contracts, $50K-$150K legal via Aurum).
+- Cost: $100K-$300K ($50K Forge/Oracle/dApp, $50K Vertex AI, $50K Solana or Ethereum contracts, $50K-$150K legal via Aurum).
 - Tech: Solana for *Nexusxa*, Vertex AI for AI pipeline, Polygon/Base for scaling.
 - Legal: Aurum for regs, IP.
 - Public Repo: *EternumPublicRepo* (GitHub: [link]) shows R&D since 2023, including *Eternum Genesis Signal* clause.
